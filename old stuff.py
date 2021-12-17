@@ -1,5 +1,4 @@
-documentName = ('/Users/markfrawley/Downloads/64b0b814293c09999f765e265aaa2ba1'
-                   '-79f24f9f87654d7ec7c2f6ba83e927852cdbf9a5/gistfile1.txt')
+documentName = ('Your File Name .txt')
 with open(documentName, "r") as f:
     words = f.read().split()
 
